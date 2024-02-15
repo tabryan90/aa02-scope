@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scope Project
 
 It's time to get some practice using scope in the wild! This task includes a
@@ -11,3 +12,4 @@ To get started, use the following commands:
 1. `cd` into the root project directory (if needed)
 2. `npm install` to install any dependencies
 3. `npm test` to run the test cases
+=======
